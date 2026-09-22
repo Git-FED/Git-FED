@@ -1081,8 +1081,8 @@
 
         /* ───────────── FADE UP ───────────── */
         .fade-up {
-            opacity: 0;
-            transform: translateY(30px);
+            opacity: 1;
+            transform: translateY(0);
             transition: opacity 0.7s ease, transform 0.7s ease;
         }
         .fade-up.visible {
@@ -1209,6 +1209,34 @@
             height: 0;
             padding-bottom: 112%;
             overflow: hidden;
+        }
+        .site-link-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: min(520px, 100%);
+            margin-top: 28px;
+            padding: 18px 36px;
+            border: 1px solid rgba(0, 212, 255, 0.25);
+            border-radius: var(--radius-pill);
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.16), rgba(176, 132, 255, 0.16));
+            color: #fff;
+            font-family: var(--font-mono);
+            font-size: clamp(1rem, 2vw, 1.35rem);
+            font-weight: 800;
+            letter-spacing: 1px;
+            text-decoration: none;
+            box-shadow: 0 0 40px rgba(0, 212, 255, 0.08), inset 0 0 24px rgba(255, 255, 255, 0.03);
+            transition: all var(--transition);
+        }
+        .site-link-button:hover {
+            transform: translateY(-5px) scale(1.02);
+            border-color: rgba(0, 212, 255, 0.55);
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.28), rgba(176, 132, 255, 0.28));
+            box-shadow: 0 18px 50px rgba(0, 212, 255, 0.16), 0 0 70px rgba(176, 132, 255, 0.1);
+        }
+        .site-link-button span {
+            color: var(--neon-cyan);
         }
         #detailsCard .card-inner iframe {
             position: absolute;
@@ -1926,6 +1954,10 @@
                 </iframe>
                 <div class="mask"></div>
             </div>
+        </div>
+        <a class="site-link-button" href="https://www.fedpromptly.org" target="_blank" rel="noopener noreferrer" aria-label="Open the full interactive ecosystem website">
+            Open the full website <span>&nbsp;↗</span>
+        </a>
         </div>
     </div>
 
