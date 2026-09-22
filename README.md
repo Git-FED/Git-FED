@@ -350,14 +350,7 @@ An experiment in replicating Git repositories and workflows without requiring a 
 
 <div align="center">
 
-<a href="https://github.com/PromptFed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromptFed&bg_color=090014&color=00e5ff&line=ff2d95&point=f5c542&area=true&hide_border=true" width="100%" alt="PromptFED contribution activity graph"/>
-</a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PromptFed&show_icons=true&theme=radical&hide_border=true&bg_color=090014&title_color=00e5ff&icon_color=ff2d95&text_color=ffffff" height="170" alt="PromptFED GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromptFed&layout=compact&theme=radical&hide_border=true&bg_color=090014&title_color=00e5ff&text_color=ffffff" height="170" alt="PromptFED language statistics"/>
+<img width="480" height="183" alt="Bmc Bio Link Sticker by Buy Me a Coffee" src="https://github.com/user-attachments/assets/04dc2d38-6792-4a01-a3d2-7d2d328b00d2" />
 
 <br/><br/>
 
@@ -499,13 +492,7 @@ approach:
 
 <div align="center">
 
-<a href="https://github.com/PromptFed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromptFed&custom_title=PromptFED%20Contribution%20Graph&bg_color=090014&color=A855F7&line=00E5FF&point=F5C542&area_color=FF2D95&area=true&hide_border=true" width="100%" alt="PromptFED contribution graph"/>
-</a>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PromptFed&show_icons=true&theme=radical&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF" height="170" alt="PromptFED GitHub statistics"/>
 
 </div>
 
