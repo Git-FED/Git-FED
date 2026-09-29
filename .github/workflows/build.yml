@@ -1,0 +1,17 @@
+name: Validate static site
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f index.html
+          test -f 404.html
+          test -f assets/css/main.css
+          test -f assets/js/app.js
+          python3 -m json.tool data/portfolio.json >/dev/null
