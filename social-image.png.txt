@@ -1,0 +1,1 @@
+PNG generation unavailable in this environment; use assets/images/social-preview.svg as source.

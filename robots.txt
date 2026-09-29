@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fedpromptly.com/sitemap.xml
