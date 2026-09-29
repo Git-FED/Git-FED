@@ -1,0 +1,100 @@
+{
+  "siteName": "FedPromptly",
+  "tagline": "A place where people turn ideas into software.",
+  "description": "FedPromptly is a builder ecosystem connecting practical learning, useful tools, open development, experiments, and community pathways.",
+  "lastReviewed": "2026-09-25",
+  "projects": [
+    {
+      "id": "ecosystem",
+      "name": "FedPromptly Ecosystem",
+      "type": "Open ecosystem",
+      "description": "The parent world connecting learning, tools, developers, Labs, and future infrastructure concepts.",
+      "status": "Building in public",
+      "audience": "Curious people, builders, developers, and supporters",
+      "whatYouCanDo": "Read the map, choose a pathway, and start with one small build.",
+      "url": "https://fedpromptly.com",
+      "repository": "TBD",
+      "owner": "FedPromptly",
+      "lastReviewed": "2026-09-25"
+    },
+    {
+      "id": "fed-edu",
+      "name": "Fed-EDU",
+      "type": "Learning",
+      "description": "Practical learning through creation: short explanations, guided projects, and beginner-friendly paths.",
+      "status": "Concept",
+      "audience": "Beginners and self-directed learners",
+      "whatYouCanDo": "Use the learning direction to shape a starter project.",
+      "url": "#",
+      "repository": "TBD",
+      "owner": "FedPromptly",
+      "lastReviewed": "2026-09-25"
+    },
+    {
+      "id": "labs",
+      "name": "FedPromptly Labs",
+      "type": "Experiments",
+      "description": "A home for prototypes, tests, odd ideas, and projects that are still becoming.",
+      "status": "Concept",
+      "audience": "Experimenters and early collaborators",
+      "whatYouCanDo": "Document an experiment, share what broke, or propose a small test.",
+      "url": "#",
+      "repository": "TBD",
+      "owner": "FedPromptly",
+      "lastReviewed": "2026-09-25"
+    },
+    {
+      "id": "templates",
+      "name": "Builder Templates Library",
+      "type": "Developer resource",
+      "description": "A future collection of small starting points for websites, Python tools, AI experiments, automations, portfolios, and blogs.",
+      "status": "Planned",
+      "audience": "People who know what they want to make but need a starting point",
+      "whatYouCanDo": "Suggest a template or turn a working project into a documented starter.",
+      "url": "#",
+      "repository": "TBD",
+      "owner": "FedPromptly",
+      "lastReviewed": "2026-09-25"
+    },
+    {
+      "id": "showcase",
+      "name": "Builder Showcase",
+      "type": "Community",
+      "description": "A place for released tools, new builds, experiments, and community projects to be seen as work in progress.",
+      "status": "Building",
+      "audience": "Builders looking for examples and collaborators",
+      "whatYouCanDo": "Submit a project with its current status and what you learned.",
+      "url": "#",
+      "repository": "TBD",
+      "owner": "FedPromptly",
+      "lastReviewed": "2026-09-25"
+    },
+    {
+      "id": "fedos",
+      "name": "FedOS Concepts",
+      "type": "Future infrastructure",
+      "description": "Long-horizon concepts for a connected ecosystem of tools, distribution, sensing, and networked builder infrastructure.",
+      "status": "Future concept",
+      "audience": "Researchers, architects, and long-term collaborators",
+      "whatYouCanDo": "Treat this as a direction for questions, not a shipped product.",
+      "url": "#",
+      "repository": "TBD",
+      "owner": "FedPromptly",
+      "lastReviewed": "2026-09-25"
+    }
+  ],
+  "contact": {
+    "email": "contact@fedpromptly.com",
+    "supportEmail": "support@fedpromptly.com",
+    "careersEmail": "careers@fedpromptly.com",
+    "businessEmail": "business@fedpromptly.com",
+    "github": "https://github.com",
+    "community": "https://discord.gg"
+  },
+  "support": {
+    "koFi": "https://ko-fi.com/fedpromptly",
+    "patreon": "https://patreon.com/fedpromptly",
+    "githubSponsors": "https://github.com/sponsors/FED-OS",
+    "buyMeACoffee": "https://www.buymeacoffee.com/fedpromptly"
+  }
+}
