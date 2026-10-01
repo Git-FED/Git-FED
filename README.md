@@ -225,7 +225,7 @@ This is not a claim that technology alone solves structural problems. It is an i
 <tr>
 <td width="50%" valign="top">
 
-### 🛕 Redo Viewer
+### 🛕 Repo Viewer
 
 **An interactive 3D cathedral made from GitHub contributions.**
 
