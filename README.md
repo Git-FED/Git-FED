@@ -67,6 +67,10 @@ The mission is practical: **build tools, share knowledge, and widen access.**
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
 
+<div align="center">
+<img width="720" height="720" alt="116d9649-01f0-4917-b656-5209cc37945e (1)" src="https://github.com/user-attachments/assets/a1c7b168-a8db-45b5-b747-994bfffba99e" />
+</div>
+
 ## 🐙 Contribution Preview
 
 <picture>
